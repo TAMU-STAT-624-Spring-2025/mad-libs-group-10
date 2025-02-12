@@ -1,3 +1,4 @@
+
 1. Michelle
 2. Pretty
 3. Cool
@@ -5,13 +6,13 @@
 5. September
 6. 18
 7. Cats
-8. Noun (Plural)
-9. Noun
-10. Room Name
-11. Liquid
-12. Adjective
-13. Material
-14. Activity
+8. ears
+9. dirt
+10. mudroom
+11. mercury
+12. painstaking
+13. leather
+14. shooting hoops
 15. Adverb
 16. Number
 17. Unit of Time
